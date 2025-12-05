@@ -21,7 +21,7 @@
 ![App Screenshot](https://github.com/Suraj-Avhad/Global-Rate-Checker/blob/190912ba42bda285a407d13334887627809513b0/Screenshot%202025-12-06%20043104.png)
 
 
-![App Screenshot](https://github.com/Suraj-Avhad/Global-Rate-Checker/blob/190912ba42bda285a407d13334887627809513b0/Screenshot%202025-12-06%20043215.png)
+![App Screenshot](https://github.com/Suraj-Avhad/Global-Rate-Checker/blob/ec3983d3ebd355b9c2585f3d741cb3b348de5b7d/Screenshot%202025-12-06%20045442.png)
 
 
 ![App Screenshot](https://github.com/Suraj-Avhad/Global-Rate-Checker/blob/190912ba42bda285a407d13334887627809513b0/Screenshot%202025-12-06%20043215.png)
