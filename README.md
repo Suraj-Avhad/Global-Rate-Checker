@@ -24,6 +24,9 @@
 ![App Screenshot](https://github.com/Suraj-Avhad/Global-Rate-Checker/blob/190912ba42bda285a407d13334887627809513b0/Screenshot%202025-12-06%20043215.png)
 
 
+![App Screenshot](https://github.com/Suraj-Avhad/Global-Rate-Checker/blob/190912ba42bda285a407d13334887627809513b0/Screenshot%202025-12-06%20043215.png)
+
+
 
 ## Tech Stack
 
